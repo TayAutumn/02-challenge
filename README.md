@@ -24,3 +24,6 @@ No installation is required to view the website. Simply open the HTML file in a 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Deployment
+Here is a link to the deployed website using git: https://tayautumn.github.io/Taylor-Tilney-Horieson-page-02-challenge/#social-media-marketing
